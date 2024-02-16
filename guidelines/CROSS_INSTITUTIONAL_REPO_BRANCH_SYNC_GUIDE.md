@@ -1,4 +1,4 @@
-# Cross-Institutional Repository Branch Syncing Guide
+# Cross-institutional repository branch syncing guide
 
 
 This guideline explains how to sync a certain branch of a private repo within your organization, with a branch from the corresponding repo of the lambda GitHub organization. This is useful in certain situations such as: only a part of your private repo is relevant for lambda and you want to only sync that part with the lambda work.
